@@ -1,0 +1,12 @@
+{
+  "token": "TokenHere",
+  "version": "Pluto V2",
+  "BotName": "Pluto",
+  "apiKey": "c0cc2deecc867e0fce6e08937596e90c7c8a48c3",
+  "adminRole": "1065743266420637849",
+  "scriptUrl": "loadstring(game:HttpGet('https://scripts.luawl.com/plutowtf/PrivateBuild.lua'))()",
+  "BuyerRoleID": "1065743431797837935",
+  "DisableOnLeave-VV": false,
+  "EnableUserHWIDReset": true,
+  "resetHwidCooldownHours": 24
+}
